@@ -120,12 +120,6 @@ ai: Your previous message was "Hello! How are you?"
 - `langchain`: Framework for building LLM applications
 - `python-dotenv`: Environment variable management
 
-## Security Notes
-
-- Never commit your `.env` file to version control
-- Keep your OpenAI API key confidential
-- Add `.env` to your `.gitignore` file
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
