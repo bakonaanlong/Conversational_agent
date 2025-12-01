@@ -18,7 +18,7 @@ A Python implementation of a conversational AI chatbot that maintains conversati
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/bakonaanlong/Conversational_agent.git
 cd <repository-name>
 ```
 
